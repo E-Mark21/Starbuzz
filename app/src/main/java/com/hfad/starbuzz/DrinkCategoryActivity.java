@@ -15,6 +15,7 @@ import android.widget.SimpleCursorAdapter;
 import android.widget.Toast;
 
 public class DrinkCategoryActivity extends Activity {
+
     private SQLiteDatabase db;
     private Cursor cursor;
 
